@@ -1,7 +1,7 @@
 name: Emo
 favicon: null
-layout_spectrum: 0.306383
-typography_spectrum: 0.3808511
+layout_spectrum: 0
+typography_spectrum: 0.27463
 title: embedded media objects
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#DD403A'
   brandStrength: 0.506383
   lightness: 0
-  saturation: 0.1531915
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
